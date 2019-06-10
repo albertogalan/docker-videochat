@@ -1,15 +1,4 @@
-# Jitsi Meet on Docker
-
-![](resources/jitsi-docker.png)
-
-[Jitsi] is a set of Open Source projects that allows you to easily build and deploy secure
-videoconferencing solutions.
-
-[Jitsi Meet] is a fully encrypted, 100% Open Source videoconferencing solution that you can use
-all day, every day, for free — with no account needed.
-
-This repository contains the necessary tools to run a Jitsi Meet stack on [Docker] using
-[Docker Compose].
+# Cafe Meet - Secure, Simple and Scalable Video Conference
 
 ## Table of contents
 
