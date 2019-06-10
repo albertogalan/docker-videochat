@@ -10,7 +10,7 @@ services:
         volumes:
             - ${CONFIG}/web:/config
               #- /usr/share/jitsi-meet:/usr/share/jitsi-meet
-            - ../jitsi-meet:/usr/share/jitsi-meet
+            - ../videochat:/usr/share/jitsi-meet
         environment:
             - ENABLE_AUTH
             - ENABLE_GUESTS
